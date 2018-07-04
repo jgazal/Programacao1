@@ -1,0 +1,5 @@
+Neste exercício deverá ser elaborado uma tela de cadastro conforme especificado no plano de aula 04-00-Gerenciando Eventos - Plano de Aula Arquivo: Elaborar uma tela de cadastro para uma agenda. Esta tela conterá campos para receber nome, logradouro (endereço, complemento, cidade e estado), telefone e dois botões: confirmar e cancela
+
+E fazer a adição de Listeners ao botão confirmar (para salvar em arquivos o conteúdo dos campos) e ao cancelar (para limpar o conteúdo dos campos)
+
+Deverá ser entregue compactado o projeto do eclipse no formato zip com o nome no padrão: exercicio02NomeSobrenome.zip
